@@ -1,7 +1,7 @@
 # Title of the project
 # Authors 
-- Zuzanna Przygodzka
-- Bartosz Marszałek
+- Zuzanna Przygodzka,
+- Bartosz Marszałek.
 # Description of the project 
 (name) is a tiny FPV quadcopter based on Meteor75 Pro Brushless Whoop from BetaFPV. (name) is designed for either freestyle racing or precise indoor flights. Equipped with FPV camera, it allows pilot to observe surroundings from drone’s perspective.  
 # Science and tech used 
